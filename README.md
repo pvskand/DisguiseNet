@@ -7,3 +7,4 @@ This is the code for DisguiseNet paper which was accepted at CVPR Disguised Face
 - Keras with [Tensorflow](https://www.tensorflow.org/install) backend- `pip install keras`
 
 # Architecture
+![](arch.png)
