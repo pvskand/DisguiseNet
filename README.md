@@ -8,3 +8,14 @@ This is the code for DisguiseNet paper which was accepted at CVPR Disguised Face
 
 # Architecture
 ![](arch.png)
+
+# Citation
+```
+@inproceedings{peri2018disguisenet,
+  title={DisguiseNet: A Contrastive Approach for Disguised Face Verification in the Wild},
+  author={Peri, Skand Vishwanath and Dhall, Abhinav},
+  booktitle={CVPR Workshop on Disguised Faces in the Wild},
+  volume={4},
+  year={2018}
+}
+```
